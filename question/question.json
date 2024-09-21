@@ -1,0 +1,50 @@
+[
+    {
+        "exercise": 1,
+        "question": "Write a Java program that prints 'Welcome to BIA B351F!'."
+    },
+    {
+        "exercise": 2,
+        "question": "Complete the Java program to convert a data entry of equivalent degrees Fahrenheit (F) to Celsius (C) temperatures. Output numbers with 2 decimal places."
+    },
+    {
+        "exercise": 3,
+        "question": "Complete the Java program to compute body mass index (BMI) by reading in weight in kg and height in meters. Output BMI in kg/(m^2) with 4 decimal places."
+    },
+    {
+        "exercise": 4,
+        "question": "Modify your BMI program to print the weight category in addition to the BMI value. Output numbers with 2 decimal places."
+    },
+    {
+        "exercise": 5,
+        "question": "Modify the BMI program to input a person's height, then calculate the minimum and maximum weights for a normal BMI. Output numbers with 2 decimal places."
+    },
+    {
+        "exercise": 6,
+        "question": "Modify the BMI program to read a person's weight and height, then print a table showing BMI values and weight categories from the given weight minus 10kg to plus 10kg with a 1kg interval."
+    },
+    {
+        "exercise": 7,
+        "question": "Write a Java program that reads an integer n and generates a reverse right-angle triangle of size n using stars."
+    },
+    {
+        "exercise": 8,
+        "question": "Write a Java program that reads a number of quiz scores, and outputs the total number, average, and population standard deviation with 2 decimal places."
+    },
+    {
+        "exercise": 9,
+        "question": "Modify the previous quiz score program to allow an unknown number of scores and print the total number, average, and standard deviation with 2 decimal places."
+    },
+    {
+        "exercise": 10,
+        "question": "Implement methods PrintStars() and PrintPattern() to generate a reverse right-angle triangle pattern of size n using stars."
+    },
+    {
+        "exercise": 11,
+        "question": "Complete the Java program by adding a new field 'color', a new constructor with 3 parameters, and a new method perimeter() that returns the perimeter of the rectangle."
+    },
+    {
+        "exercise": 12,
+        "question": "Complete the Java program by implementing the required chained constructors to print employee details with ID, name, position, and salary."
+    }
+]
